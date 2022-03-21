@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-[Memory Game](https://aakash19here-memory-game.netlify.app).
+[Memory Game](https://aakash19here-memory-game.netlify.app)
+<br>
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
